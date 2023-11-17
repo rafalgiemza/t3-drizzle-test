@@ -1,5 +1,5 @@
 {
-  "name": "drizzle-test",
+  "name": "t3-drizzle-test",
   "version": "0.1.0",
   "private": true,
   "scripts": {
